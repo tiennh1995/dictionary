@@ -1,0 +1,4 @@
+﻿9	9	Điện thoại	\data\image\phone\9.jpg	Apple	4S	2.500.000 đ	ios 9
+52	9	Điện thoại	\data\image\phone\52.jpg	Samsung	S6	14.490.000 VNĐ	Android 5.1
+53	9	Điện thoại	\data\image\phone\53.jpg	Apple Inc	6S	14.490.000 VNĐ	ios 9.3.1
+54	9	Điện thoại	\data\image\phone\54.jpg	ASUS	Zenfone 2	4.792.000 VNĐ	Android 5.0

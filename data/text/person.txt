@@ -1,0 +1,4 @@
+﻿8	8	Con người	\data\image\person\8.jpg	19 tháng 5 năm 1890	Làng Sen,xã Kim Liên, huyện Nam Đàn, Nghệ An	Nhà tư tưởng, nhã lãnh đạo lỗi lạc, nghệ nhân, thi sĩ
+49	8	Con người	\data\image\person\49.jpg	ngày 22 tháng 4 năm 1870	Liên Xô	 Tổ chức Đảng Cộng sản Liên Xô và thành lập nước Nga Xô Viết
+50	8	Con người	\data\image\person\50.jpg	5 tháng 5 năm 1818	Trier, Vương quốc Phổ	Nhà triết học , nhà khoa học
+51	8	Con người	\data\image\person\51.jpg	ngày 28 tháng 11 năm 1820	Tỉnh Rhine của Vương quốc Phổ	Triết học phương Tây

@@ -1,0 +1,56 @@
+﻿
+2	Lamborghini Veneno 	2
+3	Google	3
+4	Asus UX303UB-R4022T	4
+5	Việt Nam	5
+6	Phở bò	6
+7	Honda Wave	7
+8	Hồ Chí Minh	8
+9	Iphone 4S	9
+10	Đại học bách khoa Hà nội	10
+11	Gà trống	1
+12	Vịt cỏ	1
+13	Voi rừng	1
+14	Con chó	1
+15	Cá vàng	1
+16	Con trâu	1
+17	Con bò	1
+18	Chim bồ câu	1
+19	Lamborghini Gallardo	2
+20	Toyota Camry	2
+21	BMW Z4 sDrive Cabriolet	2
+22	BMW X6 xDrive 35i	2
+23	BMW X5 xDrive 50i	2
+24	BMW M6 Gran Cupe	2
+25	BMW 730Li	2
+26	BMW 760Li	2
+27	Facebook	3
+28	Framgia Việt Nam	3
+29	Apple Inc	3
+30	Microsoft	3
+31	Samsung	3
+32	ASUS Zenbook UX51VZ	4
+33	Asus N550JV	4
+34	Hoa kì	5
+35	Nhật Bản	5
+36	Vương quốc anh	5
+37	Pháp	5
+38	Cộng hòa liên bang Đức	5
+39	Bánh Chưng	6
+40	Bánh cuốn	6
+41	Cháo	6
+42	Bún đậu mắm tôm	6
+43	Thịt chó	6
+44	Honda SH 150cc	7
+45	Honda SH 125cc	7
+46	Honda Wave S	7
+47	Honda Vision	7
+48	Honda Super Dream 110cc	7
+49	Vladimir Ilyich Lenin	8
+50	Karl Marx	8
+51	Friedrich Engels	8
+52	Samsung galaxy S6	9
+53	Iphone 6S	9
+54	Asus Zenfone 2	9
+55	Đại học quốc gia Hà nội	10
+56	Đại học kinh tế quốc dân	10

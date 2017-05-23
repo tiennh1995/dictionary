@@ -1,0 +1,6 @@
+6	6	Ẩm thực	\data\image\culinary\6.jpg	bánh phở và nước dùng (hay nước lèo theo cách gọi miền Nam) cùng với thịt bò hoặc gà cắt lát mỏng. Ngoài ra còn kèm theo các gia vị như: tương, tiêu, chanh, nước mắm, ớt,... 	Hà Nội, Nam Định, Sài Gòn	25000 - > 50000 đ /  bát
+39	6	Ẩm thực	\data\image\culinary\39.jpg	Gạ, thịt mỡ, đậu xanh	Việt Nam	Khoảng 30.000 VNĐ
+40	6	Ẩm thực	\data\image\culinary\40.jpg	Bột gạo, rau, thịt	Việt Nam	Khoảng 20.000 VNĐ / 1 suất
+41	6	Ẩm thực	\data\image\culinary\41.jpg	Gạo dã	Việt Nam	Khaongr 15.000 VNĐ/ 1 bát
+42	6	Ẩm thực	\data\image\culinary\42.jpg	Bún, Mắm tôm , đậu phũ , râu sống	Việt Nam	Khoảng 20.000 VNĐ/ 1 suất
+43	6	Ẩm thực	\data\image\culinary\43.jpg	Thịt chó, mắm tôm, lá mơ	Việt Nam	Khoảng 50.000 VNĐ/ 1 suất

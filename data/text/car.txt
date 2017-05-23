@@ -1,0 +1,9 @@
+﻿2	2	Ô tô	\data\image\car\2.jpg	Automobili Lamborghini S.p.A	3 triệu euro (chưa tính thuế)	2
+19	2	Ô tô	\data\image\car\19.jpg	Lamborghini	 260 000  USD	2
+20	2	Ô tô	\data\image\car\20.jpg	Toyota	100 000 USD	4
+21	2	Ô tô	\data\image\car\21.jpg	BMW	2.448.000.000 VNĐ	4
+22	2	Ô tô	\data\image\car\22.jpg	BMW	3.638.000.000 VNĐ	4
+23	2	Ô tô	\data\image\car\23.jpg	BMW	4.998.000.000 VNĐ	4
+24	2	Ô tô	\data\image\car\24.jpg	BMW	6.688.000.000 VNĐ	4
+25	2	Ô tô	\data\image\car\25.jpg	BMW	3.768.000.000 VNĐ	4
+26	2	Ô tô	\data\image\car\26.jpg	BMW	6.198.000.000 VNĐ	4

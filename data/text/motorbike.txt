@@ -1,0 +1,6 @@
+﻿7	7	Xe máy	\data\image\motorbike\7.jpg	Honda	18.000.000 -> 25.000.000 đ
+44	7	Xe máy	\data\image\motorbike\44.jpg	Honda	80.990.000 VNĐ
+45	7	Xe máy	\data\image\motorbike\45.jpg	Honda	66.990.000 VNĐ
+46	7	Xe máy	\data\image\motorbike\46.jpg	Honda	18.190.000 (VNĐ)
+47	7	Xe máy	\data\image\motorbike\47.jpg	Honda	29.990.000 VNĐ
+48	7	Xe máy	\data\image\motorbike\48.jpg	Honda	18,700,000 VND

@@ -1,0 +1,3 @@
+4	4	Máy tính	\data\image\computer\4.jpg	ASUS	UX303UB-R4022T	28.990.000 đ	Windows 10 Home 64bit SL	NVIDIA Geforce 940M (2G) 
+32	4	Máy tính	\data\image\computer\32.jpg	ASUS	UX51VZ	20.000.000 VNĐ	Windows 10 pro	Nvidia GeForce GT 650
+33	4	Máy tính	\data\image\computer\33.jpg	ASUS	N550JV	21.000.000 VNĐ	Windows 10 pro	Nvidia GT 750 4GB
